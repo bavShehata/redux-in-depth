@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "*",
     "redux": "*",
-    "redux-logger": "*"
+    "redux-logger": "*",
+    "redux-thunk": "*"
   }
 }
